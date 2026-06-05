@@ -5,4 +5,4 @@ I solve and upload Rosalind problems here daily. Speedrunning bioinformatics, ha
 
 ### Progress
 
-`[████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 10 / 284 (3.5%)`
+` [██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 11 / 284 (3.9%) `
